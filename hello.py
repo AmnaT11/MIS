@@ -11,5 +11,9 @@ name=first_name+' '+last_name
 
 message = 'hello, '+name+'\n'
 print(message * 10)
+In [1]: Type 42
+Out[1]:int
+Print(In)
+
 
 input()
