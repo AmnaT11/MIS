@@ -12,3 +12,8 @@ sol2 = (-b+cmath.sqrt(d))/(2*a)
 print('The solutions are {0} and {1}'.format(sol1,sol2))
 
 input()
+
+'''
+def quadratic_equation(a, b, c):
+    ...
+'''
